@@ -406,48 +406,6 @@ Input Text
 
 ---
 
-## 🎓 Skills Demonstrated
 
-<div align="center">
 
-### For Data Analyst Roles
-`Data Processing` `Metrics Analysis` `JSON/ETL Pipelines` `Performance Dashboards` `Statistical Analysis`
 
-### For Data Scientist Roles
-`NLP/Text Classification` `BERT/Transformers` `Model Inference` `Feature Engineering` `Probability Analysis`
-
-### For Data Engineer Roles
-`FastAPI/REST APIs` `Async Programming` `ETL Pipelines` `Performance Monitoring` `Data Validation`
-
-### For AI Engineer Roles
-`PyTorch/Deep Learning` `HuggingFace Transformers` `Model Deployment` `GPU Optimization` `Real-time ML Systems`
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavanareddy19/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://bhavana19portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:Bhavana.Vippala@colorado.edu)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you found it helpful!
-
-**Built with passion for AI/ML and Data Engineering**
-
-</div>
-
----
-
-<div align="center">
-<sub>Made with ❤️ using Python, FastAPI, PyTorch & HuggingFace Transformers</sub>
-</div>
