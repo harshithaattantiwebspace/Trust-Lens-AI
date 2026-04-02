@@ -404,7 +404,6 @@ Input Text
 | **Localhost Only** | Server binds to 127.0.0.1 |
 | **Private IP Blocking** | Prevents SSRF attacks |
 
----
 
 
 
